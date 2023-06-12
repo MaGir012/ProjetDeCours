@@ -1226,7 +1226,7 @@ svg path {
     position: relative;
     width: 1440px;
     max-width: 95%;
-    height: 600px;
+    height: 700px;
     margin: 30px auto;
     background-color: #efefef;
     overflow: hidden
@@ -1405,4 +1405,8 @@ svg path {
     margin-bottom: 0;
     font-family: "Raleway", Helvetica, sans-serif;
     font-size: 12px
+}
+
+#map { 
+    height: 180px;
 }
